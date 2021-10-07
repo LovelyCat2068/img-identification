@@ -1,0 +1,73 @@
+body{
+    background-color: #22577A;
+    font-family: 'Allison', cursive;
+}
+
+.heading{
+    color: #38A3A5;
+    font-family: 'Lobster', cursive;
+    background-color: teal;
+    width: 100%;
+}
+
+#II{
+    width: 50px;
+    height: 50px;
+}
+
+.capture_div{
+    padding: 9px;
+    margin-top: 12px;
+    background-color: rgb(21, 118, 131);
+    border: 2px dashed cyan;
+}
+
+#camera, #result{
+    border: 2px solid darkturquoise;
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 18px darkcyan;
+}
+
+button{
+    border: 2px solid turquoise;
+    width: 100px;
+    box-shadow: 5px 5px 18px darkgoldenrod;
+    font-size: 12px;
+}
+
+label{
+    background-color: white;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px ghostwhite;
+}
+
+#footer{
+    position: fixed;
+    color: tomato;
+    bottom: 0;
+    width: 100%;
+    background-color: rosybrown;
+    line-height: 3;
+    text-align: center;
+    font-size: large;
+}
+
+.text{
+    margin-bottom: 50px;
+    width: 30%;
+}
+
+.text h4{
+    box-shadow: 5px 5px 18px steelblue;
+    border-radius: 20%;
+    padding: 10px;
+    background-color: thistle;
+}
+
+#I{
+width:     50px;
+height: 60px;
+}
